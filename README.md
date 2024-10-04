@@ -1,1 +1,1 @@
-Moved to https://github.com/solana-developers/anchor-rpg
+Demo code from [Solana Program Architecture lesson](https://solana.com/developers/courses/program-optimization/program-architecture)
